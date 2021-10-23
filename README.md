@@ -2,7 +2,7 @@
 
 
 
-본 데이터(oie_data.csv)는 질병정보 수집기(collector/README.md 참조)에서 수집한 데이터를 공유할 목적으로 csv 파일로 가공한 것입니다.
+본 데이터(oie_data.csv)는 질병정보 수집기(https://github.com/daejeonpython/meerkats/blob/main/collector/README.md 참조)에서 수집한 데이터를 공유할 목적으로 csv 파일로 가공한 것입니다.
 
 
 
